@@ -1,16 +1,17 @@
 
 
-NLP Applications
+# NLP Applications
 
-# 1 Twitter popularity
+## 1 Twitter popularity
 
   Popularity prediction on comments analysis
-  A social tool for:
+ 
+ A social tool for:
      - Improve communication efficiency
      - Key Opinion Liders (KOL) identification
      - Twitter influencers search 
 
-# 2 Recommended System for B2C platforms
+## 2 Recommended System for B2C platforms
 
   Book tittle
   Films
@@ -32,7 +33,7 @@ NLP Applications
        -  Display appropiated Ads
            - Improve the performance of Ads, save cost.
 
-# 3 Growth Marketing
+## 3 Growth Marketing
 
   Create a data model algorithm to  check if a webdomain has potential to be a lead of the company 
  
@@ -49,20 +50,18 @@ NLP Applications
          - Manufacture Chemical company that sell pigments to wholesales over the world
          - Manufacture of High Voltage Test Equipment that sells to Laboratoris and Manufacturer
 
-# 4 Social Security  Identity Supplant
+## 4 Social Security  Identity Supplant
 
   Data stream  are social tools analysis, through conversations: 
      - Twitter
      - Weibo
-     -
-
   Abnormal pattern detection
     - identify children ussing forbidden places
     - identifing cases of ... 
     -
     - 
 
-# 5 Warning system for users to be a "good citizen"
+## 5 Warning system for users to be a "good citizen"
 
  - have a good images for friends, authorities
  - conversation analysis
